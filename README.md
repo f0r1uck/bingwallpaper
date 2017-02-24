@@ -11,4 +11,4 @@ Windows
 
 ##Latest Release 
 下载链接
-http://pan.baidu.com/s/1pL78o2n
+[百度网盘](http://pan.baidu.com/s/1pL78o2n)
