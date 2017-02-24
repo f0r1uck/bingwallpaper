@@ -7,7 +7,7 @@ Auto startup
 自启动
 
 Windows
-将软件的快捷方式加入到开始菜单中的启动文件夹中即可。
+将bingwallpaper的快捷方式加入到开始菜单中的启动文件夹中即可。
 
 Latest Release 
 下载链接
