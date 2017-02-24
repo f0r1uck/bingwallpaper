@@ -14,4 +14,4 @@ Windows下
 ##捐助
 如果喜欢这个软件，请考虑给我们昼伏夜出的码农捐助一杯咖啡吧！软件及其所有功能均为免费且无广告，捐助与否不影响使用。
 
-![](https://github.com/f0r1uck/bingwallpaper/blob/f0r1uck-patch-1/zfb.jpg?raw=true)     
+![](https://github.com/f0r1uck/bingwallpaper/blob/f0r1uck-patch-1/wx.jpg?raw=true)     
