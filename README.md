@@ -13,5 +13,5 @@ Windows下
 [百度网盘](http://pan.baidu.com/s/1o80iItO)
 ##捐助
 如果喜欢本软件，请考虑给我们昼伏夜出的码农捐助一杯咖啡吧！软件及其所有功能均为免费且无广告，捐助与否不影响使用。
-
+![](https://raw.githubusercontent.com/f0r1uck/bingwallpaper/f0r1uck-patch-1/wxzf.jpg)
 ![](https://github.com/f0r1uck/bingwallpaper/blob/f0r1uck-patch-1/wx.jpg?raw=true)    
