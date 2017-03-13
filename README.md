@@ -8,7 +8,5 @@ Windows下
 将bingwallpaper的快捷方式加入到开始菜单中的启动文件夹中即可。
 ##下载链接
 [百度网盘](http://pan.baidu.com/s/1o80iItO)
-##捐助
-如果喜欢此软件，请考虑给我们昼伏夜出的码农捐助一杯咖啡吧！软件及其所有功能均为免费无广告，捐助与否不影响使用。
-
-![](https://github.com/f0r1uck/bingwallpaper/blob/f0r1uck-patch-1/wx.jpg?raw=true)     
+##捐助（微信）
+![](https://github.com/f0r1uck/bingwallpaper/blob/f0r1uck-patch-1/wx.jpg?raw=true)     
