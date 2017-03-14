@@ -11,5 +11,5 @@ Windows下
 ##Latest Release 
 下载链接
 [百度网盘](http://pan.baidu.com/s/1o80iItO)
-##微信支持我!
+##微信支持我
 ![](https://github.com/f0r1uck/bingwallpaper/blob/f0r1uck-patch-1/wx.jpg?raw=true)    
